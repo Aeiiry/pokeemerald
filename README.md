@@ -8,7 +8,7 @@ Super far flung goal would be to implement a series of changes in a speedchoice-
 
 Wishlist:
 
-*Most/all of the features in [**speedchoice**](https://github.com/ProjectRevoTPP/pokeemerald-speedchoice), but with the ability to toggle more of them on/off either at will or when creating a new game.
+* Most/all of the features in [**speedchoice**](https://github.com/ProjectRevoTPP/pokeemerald-speedchoice), but with the ability to toggle more of them on/off either at will or when creating a new game.
 * Auto-Run when B not pressed
 * Auto advance text when a button not pressed (ideally like speedchoice but as if you're always holding a button)
 * Bag sorting, either automatically or using a button
