@@ -1,3 +1,23 @@
+# Aeiry's Pokémon Emerald
+
+This is a (currently personal) fork of [**pret/pokeemerald**](https://github.com/pret/pokeemerald)
+
+I have little knowledge of C or assembly, so this will preliminarily be a place that I try to jam other people's code/branches into my own fork, and then try to make it work.
+
+Super far flung goal would be to implement a series of changes in a speedchoice-esque way, but I'm not sure if that's even possible for some of the things I want to do.
+
+Wishlist:
+
+*Most/all of the features in [**speedchoice**](https://github.com/ProjectRevoTPP/pokeemerald-speedchoice)
+
+), but with the ability to toggle more of them on/off either at will or when creating a new game.
+* Auto-Run when B not pressed
+* Auto advance text when a button not pressed (ideally like speedchoice but as if you're always holding a button)
+* Bag sorting, either automatically or using a button
+* Toggle to remove "useless" npcs (e.g. any npc that only has dialogue and nothing else)
+* Toggle to show hidden items on the overworld
+* Toggle physical/special split
+
 # Pokémon Emerald
 
 This is a decompilation of Pokémon Emerald.
