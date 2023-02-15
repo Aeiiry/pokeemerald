@@ -1,24 +1,3 @@
-# About this branch
-This branch adds 3 new pockets to the bag based on changes to it from later generations:
-* Medicine (HP, PP and status recovery items)
-* Power-Up (Vitamins and evolution items)
-* Battle Items (X items, Pokédoll/FluffyTail and hold items with battle effects)
-
-The new order for the pockets is the following:
-* Items
-* Medicine
-* Poké Balls
-* Battle Items
-* Berries
-* Power-Up
-* TMs & HMs
-* Key Items
-
-However, it reuses the original pocket sprites until I'm able to get new ones for the new pockets.
-
-To-Do:
-* New bag sprites.
-
 # Aeiry's Pokémon Emerald
 
 This is a (currently personal) fork of [**pret/pokeemerald**](https://github.com/pret/pokeemerald)
@@ -27,7 +6,12 @@ I have little knowledge of C or assembly, so this will preliminarily be a place 
 
 Super far flung goal would be to implement a series of changes in a speedchoice-esque way, but I'm not sure if that's even possible for some of the things I want to do.
 
-Wishlist:
+## Current branches integrated into this one:
+
+* [**Ghouslash's betterbag**](https://github.com/AsparagusEduardo/pokeemerald/tree/BetterBag)
+
+
+## Wishlist/To-Do:
 
 * Most/all of the features in [**speedchoice**](https://github.com/ProjectRevoTPP/pokeemerald-speedchoice), but with the ability to toggle more of them on/off either at will or when creating a new game.
 * Auto-Run when B not pressed
@@ -36,6 +20,8 @@ Wishlist:
 * Toggle to remove "useless" npcs (e.g. any npc that only has dialogue and nothing else)
 * Toggle to show hidden items on the overworld
 * Toggle physical/special split
+* Custom shiny chance
+* Toggle-able guaranteed shiny for each of gift pokemon/static pokemon/gift egg
 
 # Pokémon Emerald
 
